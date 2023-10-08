@@ -1,8 +1,8 @@
 import React from 'react';
-import { View, TouchableOpacity, Text, Image, TextInput, StyleSheet, Button } from 'react-native';
+import { View, TouchableOpacity, Text, Image, TextInput, StyleSheet} from 'react-native';
 
 
-const GD2a = () =>  {
+const GD2a = () => {
     return (
         <View style={styles.container}>
             <View style={styles.styles1}>
