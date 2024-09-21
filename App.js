@@ -10,7 +10,10 @@ import GD1d from './GD1d';
 // import GD1e from './GD1e';
 
 // import GD2a from './GD2a';
+// import GD2b from './GD2b';
+// import GD2c from './GD2c';
 
+// import GDTiki_OK from './GDTiki_OK';
 // import GDXMEye from './GDXMEye';
 
 export default function App() {
@@ -22,7 +25,10 @@ export default function App() {
     // return <GD1e/>;
 
     // return <GD2a/>;
+    // return <GD2b/>;
+    // return <GD2c/>;
 
+    // return <GDTiki_OK/>;
     // return <GDXMEye/>;
 
 };
